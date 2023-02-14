@@ -23,7 +23,7 @@ function clearInput() {
     document.getElementsByClassName('imagesOutput').value = "";
 }
 
-// функция перезагрузки страницы браузера (читерский способ))
+// функция перезагрузки страницы браузера (чит способ))
 // function clearInput() {
 //     document.location.reload();
 // }
